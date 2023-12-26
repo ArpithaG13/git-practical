@@ -7,3 +7,5 @@ def ask_for_init():
         print("end of try/except/finally")
 
   ask_for_init()
+
+//added this line to check modified file
