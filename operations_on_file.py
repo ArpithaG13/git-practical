@@ -9,3 +9,8 @@ def ask_for_init():
   ask_for_init()
 
 //added this line to check modified file
+
+def addition(int a, int b):
+    c=a+b
+    print(c)
+addition(5,6)
